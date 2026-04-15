@@ -1,0 +1,7 @@
+.DS_Store
+__MACOSX/
+*.log
+*.zip
+node_modules/
+.vscode/
+.idea/
