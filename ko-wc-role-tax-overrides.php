@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: KO - Woo Role Tax Overrides
- * Description: Override WooCommerce tax rates for specific user roles, with admin tools and order audit visibility.
+ * Description: Override WooCommerce tax rates for specific user roles, with admin tools. Also adds column to "Orders" screen for auditing.
  * Version: 1.1.2
  * Author: KO
  * License: GPL2+
